@@ -1,10 +1,10 @@
-# DoxNation-1.5
-Download then use command unzip "DoxNation.zip"
+# DoxNation-1.7
+Download then use command unzip "DoxN.zip"
 Then Read Readme.md
 Thanks TeamWicked
 --------------------------------------
 
-#Changes#
+#Changes# 1.7
 new gui
 color change Red
 remove select other states
@@ -15,6 +15,11 @@ finds more website's
 new list
 update hash
 updated google lookup using vs 6.02
+renamed Zip File DoxN
+New Api Links
+Removed not working items
+add help button back
+
 
 
 
